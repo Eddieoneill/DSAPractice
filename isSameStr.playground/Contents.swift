@@ -34,3 +34,4 @@ func isSameStr(arr: [String]) -> Bool {
 }
 
 isSameStr(arr: ["af$stt$", "ast"])
+
